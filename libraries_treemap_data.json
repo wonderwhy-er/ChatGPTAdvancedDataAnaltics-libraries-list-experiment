@@ -1,0 +1,1834 @@
+{
+  "name": "Libraries",
+  "children": [
+    {
+      "name": "Text and Data Processing",
+      "children": [
+        {
+          "name": "zopfli",
+          "description": "Zopfli compression algorithm for higher deflate or zlib compression.",
+          "url": "https://pypi.org/project/zopfli/"
+        },
+        {
+          "name": "yarl",
+          "description": "URL parsing and manipulation.",
+          "url": "https://pypi.org/project/yarl/"
+        },
+        {
+          "name": "XlsxWriter",
+          "description": "Create Excel XLSX files.",
+          "url": "https://pypi.org/project/XlsxWriter/"
+        },
+        {
+          "name": "xlrd",
+          "description": "Reading data and formatting information from older Excel files.",
+          "url": "https://pypi.org/project/xlrd/"
+        },
+        {
+          "name": "webencodings",
+          "description": "Implementation of WHATWG Encoding standard.",
+          "url": "https://pypi.org/project/webencodings/"
+        },
+        {
+          "name": "ujson",
+          "description": "Ultra fast JSON encoder and decoder for Python.",
+          "url": "https://pypi.org/project/ujson/"
+        },
+        {
+          "name": "torchtext",
+          "description": "Text processing datasets, data loaders, and models for PyTorch.",
+          "url": "https://pypi.org/project/torchtext/"
+        },
+        {
+          "name": "tomli",
+          "description": "TOML parser for Python.",
+          "url": "https://pypi.org/project/tomli/"
+        },
+        {
+          "name": "toml",
+          "description": "TOML parser and encoder for Python.",
+          "url": "https://pypi.org/project/toml/"
+        },
+        {
+          "name": "tinycss2",
+          "description": "Low-level CSS parser and generator.",
+          "url": "https://pypi.org/project/tinycss2/"
+        },
+        {
+          "name": "textract",
+          "description": "Extract text from documents",
+          "url": "https://pypi.org/project/textract/"
+        },
+        {
+          "name": "textblob",
+          "description": "Provides natural language processing tools",
+          "url": "https://pypi.org/project/textblob/"
+        },
+        {
+          "name": "text-unidecode",
+          "description": "Unicode text transliteration library",
+          "url": "https://pypi.org/project/text-unidecode/"
+        },
+        {
+          "name": "tabula",
+          "description": "Creates ASCII tables",
+          "url": "https://pypi.org/project/tabula/"
+        },
+        {
+          "name": "spacy",
+          "description": "Industrial-strength Natural Language Processing in Python.",
+          "url": "https://pypi.org/project/spacy/"
+        },
+        {
+          "name": "spacy-legacy",
+          "description": "Natural language processing library",
+          "url": "https://pypi.org/project/spacy-legacy/"
+        },
+        {
+          "name": "soupsieve",
+          "description": "CSS selector library for BeautifulSoup",
+          "url": "https://pypi.org/project/soupsieve/"
+        },
+        {
+          "name": "sentencepiece",
+          "description": "Unsupervised text tokenizer/detokenizer for neural network text generation",
+          "url": "https://pypi.org/project/sentencepiece/"
+        },
+        {
+          "name": "regex",
+          "description": "Alternative regular expression module to replace re.",
+          "url": "https://pypi.org/project/regex/"
+        },
+        {
+          "name": "rarfile",
+          "description": "RAR archive extraction.",
+          "url": "https://pypi.org/project/rarfile/"
+        },
+        {
+          "name": "PyYAML",
+          "description": "YAML parser and emitter.",
+          "url": "https://pypi.org/project/PyYAML/"
+        },
+        {
+          "name": "pyttsx3",
+          "description": "Text-to-speech conversion library.",
+          "url": "https://pypi.org/project/pyttsx3/"
+        },
+        {
+          "name": "python-docx",
+          "description": "Create/read/write Word files",
+          "url": "https://pypi.org/project/python-docx/"
+        },
+        {
+          "name": "pyphen",
+          "description": "Hyphenate text using Hunspell dictionaries.",
+          "url": "https://pypi.org/project/pyphen/"
+        },
+        {
+          "name": "PyPDF2",
+          "description": "Pure Python PDF library capable of splitting, merging and transforming PDFs.",
+          "url": "https://pypi.org/project/PyPDF2/"
+        },
+        {
+          "name": "pyparsing",
+          "description": "Library for creating and executing simple grammars as an alternative to regex and lex/yacc.",
+          "url": "https://pypi.org/project/pyparsing/"
+        },
+        {
+          "name": "pylog",
+          "description": "Implementation of logic programming based on miniKanren.",
+          "url": "https://pypi.org/project/pylog/"
+        },
+        {
+          "name": "pycparser",
+          "description": "C parser module written in pure Python.",
+          "url": "https://pypi.org/project/pycparser/"
+        },
+        {
+          "name": "prompt-toolkit",
+          "description": "Library for building interactive command line apps",
+          "url": "https://pypi.org/project/prompt-toolkit/"
+        },
+        {
+          "name": "pickleshare",
+          "description": "Small 'shelve' like datastore for Python with concurrent access support.",
+          "url": "https://pypi.org/project/pickleshare/"
+        },
+        {
+          "name": "pdfrw",
+          "description": "Read and write PDF files in pure Python with support for subsets, merging, rotating, etc.",
+          "url": "https://pypi.org/project/pdfrw/"
+        },
+        {
+          "name": "orjson",
+          "description": "Fast and correct JSON serialization/deserialization library with native support for common types.",
+          "url": "https://pypi.org/project/orjson/"
+        },
+        {
+          "name": "openpyxl",
+          "description": "Read/write Excel 2010 xlsx/xlsm files",
+          "url": "https://pypi.org/project/openpyxl/"
+        },
+        {
+          "name": "nltk",
+          "description": "Natural language toolkit for Python.",
+          "url": "https://pypi.org/project/nltk/"
+        },
+        {
+          "name": "mistune",
+          "description": "Markdown parser in pure Python with renderers for IPython/Jupyter Notebook.",
+          "url": "https://pypi.org/project/mistune/"
+        },
+        {
+          "name": "markdown2",
+          "description": "Fast and complete Markdown parser for Python.",
+          "url": "https://pypi.org/project/markdown2/"
+        },
+        {
+          "name": "lxml",
+          "description": "Pythonic XML processing library using libxml2 and libxslt.",
+          "url": "https://pypi.org/project/lxml/"
+        },
+        {
+          "name": "html5lib",
+          "description": "HTML parser based on the WHATWG HTML specification.",
+          "url": "https://pypi.org/project/html5lib/"
+        },
+        {
+          "name": "gensim",
+          "description": "Topic Modelling in Python.",
+          "url": "https://pypi.org/project/gensim/"
+        },
+        {
+          "name": "fuzzywuzzy",
+          "description": "Fuzzy string matching in Python.",
+          "url": "https://pypi.org/project/fuzzywuzzy/"
+        },
+        {
+          "name": "email-validator",
+          "description": "Library for validating email address syntax and deliverability.",
+          "url": "https://pypi.org/project/email-validator/"
+        },
+        {
+          "name": "docx2txt",
+          "description": "python docx2txt: Describes how to install the library.",
+          "url": "https://pypi.org/project/docx2txt/"
+        },
+        {
+          "name": "cssselect2",
+          "description": "CSS selector library.",
+          "url": "https://pypi.org/project/cssselect2/"
+        },
+        {
+          "name": "cmudict",
+          "description": "Access CMU Pronouncing Dictionary for pronunciation data",
+          "url": "https://pypi.org/project/cmudict/"
+        },
+        {
+          "name": "charset-normalizer",
+          "description": "Python library to detect encoding of text and normalize to Unicode.",
+          "url": "https://pypi.org/project/charset-normalizer/"
+        },
+        {
+          "name": "chardet",
+          "description": "Universal character encoding detector.",
+          "url": "https://pypi.org/project/chardet/"
+        },
+        {
+          "name": "Brotli",
+          "description": "Compress and decompress data with the Brotli algorithm",
+          "url": "https://pypi.org/project/Brotli/"
+        },
+        {
+          "name": "beautifulsoup4",
+          "description": "HTML/XML parser for quick web scraping.",
+          "url": "https://pypi.org/project/beautifulsoup4/"
+        },
+        {
+          "name": "idna",
+          "description": "Implements IDNA2008 internationalized domain names in applications.",
+          "url": "https://pypi.org/project/idna/"
+        }
+      ]
+    },
+    {
+      "name": "Data Formats and Parsing",
+      "children": [
+        {
+          "name": "zipp",
+          "description": "Backport of pathlib-compatible object wrapper for zip files.",
+          "url": "https://pypi.org/project/zipp/"
+        },
+        {
+          "name": "xml-python",
+          "description": "A library for making Python objects from XML.",
+          "url": "https://pypi.org/project/xml-python/"
+        },
+        {
+          "name": "tabulate",
+          "description": "Pretty-print tabular data in Python.",
+          "url": "https://pypi.org/project/tabulate/"
+        },
+        {
+          "name": "rpds-py",
+          "description": "Python bindings for Rust persistent data structures",
+          "url": "https://pypi.org/project/rpds-py/"
+        },
+        {
+          "name": "referencing",
+          "description": "JSON reference resolution.",
+          "url": "https://pypi.org/project/referencing/"
+        },
+        {
+          "name": "rdflib",
+          "description": "RDF library for semantic web and linked data.",
+          "url": "https://pypi.org/project/rdflib/"
+        },
+        {
+          "name": "pyxlsb",
+          "description": "Parse Excel 2007-2010 Binary Workbook (xlsb) files.",
+          "url": "https://pypi.org/project/pyxlsb/"
+        },
+        {
+          "name": "python-dotenv",
+          "description": "Read key-value pairs from .env file",
+          "url": "https://pypi.org/project/python-dotenv/"
+        },
+        {
+          "name": "pyth3",
+          "description": "Python library for text markup and conversion between formats.",
+          "url": "https://pypi.org/project/pyth3/"
+        },
+        {
+          "name": "pyshp",
+          "description": "Reads and writes Esri Shapefiles in pure Python.",
+          "url": "https://pypi.org/project/pyshp/"
+        },
+        {
+          "name": "pypandoc",
+          "description": "Thin wrapper for pandoc document conversion tool with support for piping input strings.",
+          "url": "https://pypi.org/project/pypandoc/"
+        },
+        {
+          "name": "pydyf",
+          "description": "Low-level PDF generator written in Python.",
+          "url": "https://pypi.org/project/pydyf/"
+        },
+        {
+          "name": "pydot",
+          "description": "Python interface to Graphviz for graph manipulation and visualization.",
+          "url": "https://pypi.org/project/pydot/"
+        },
+        {
+          "name": "pycryptodomex",
+          "description": "Cryptographic library implementing ciphers, hashes and public key algorithms.",
+          "url": "https://pypi.org/project/pycryptodomex/"
+        },
+        {
+          "name": "py",
+          "description": "Python development support library with path, ini parsing and code analysis tools.",
+          "url": "https://pypi.org/project/py/"
+        },
+        {
+          "name": "priority",
+          "description": "HTTP/2 priority logic implementation for request prioritization.",
+          "url": "https://pypi.org/project/priority/"
+        },
+        {
+          "name": "preshed",
+          "description": "Hash table implementation optimized for pre-hashed keys.",
+          "url": "https://pypi.org/project/preshed/"
+        },
+        {
+          "name": "pooch",
+          "description": "Manage and version control data files for Python projects.",
+          "url": "https://pypi.org/project/pooch/"
+        },
+        {
+          "name": "plotnine",
+          "description": "Grammar of graphics style plotting library based on ggplot2 for Python.",
+          "url": "https://pypi.org/project/plotnine/"
+        },
+        {
+          "name": "pdfminer.six",
+          "description": "Extract text and layout information from PDF documents.",
+          "url": "https://pypi.org/project/pdfminer.six/"
+        },
+        {
+          "name": "pdf2image",
+          "description": "Wrap pdftoppm and pdftocairo to convert PDF to PIL Image in Python.",
+          "url": "https://pypi.org/project/pdf2image/"
+        },
+        {
+          "name": "patsy",
+          "description": "Describe statistical models in Python inspired by R formulas.",
+          "url": "https://pypi.org/project/patsy/"
+        },
+        {
+          "name": "pathy",
+          "description": "Pathlib-like API for cloud storage buckets",
+          "url": "https://pypi.org/project/pathy/"
+        },
+        {
+          "name": "pandocfilters",
+          "description": "Library for writing pandoc filters in Python",
+          "url": "https://pypi.org/project/pandocfilters/"
+        },
+        {
+          "name": "olefile",
+          "description": "Parse, read and write Microsoft OLE2 files",
+          "url": "https://pypi.org/project/olefile/"
+        },
+        {
+          "name": "odfpy",
+          "description": "Read and write OpenDocument format files",
+          "url": "https://pypi.org/project/odfpy/"
+        },
+        {
+          "name": "notebook",
+          "description": "shim",
+          "url": "https://pypi.org/project/notebook/"
+        },
+        {
+          "name": "nbformat",
+          "description": "Jupyter notebook format reader/writer",
+          "url": "https://pypi.org/project/nbformat/"
+        },
+        {
+          "name": "mutagen",
+          "description": "Read and write audio file metadata",
+          "url": "https://pypi.org/project/mutagen/"
+        },
+        {
+          "name": "markdownify",
+          "description": "HTML to Markdown converter.",
+          "url": "https://pypi.org/project/markdownify/"
+        },
+        {
+          "name": "jsonpickle",
+          "description": "Serializes arbitrary Python objects to JSON and deserializes back to objects.",
+          "url": "https://pypi.org/project/jsonpickle/"
+        },
+        {
+          "name": "json5",
+          "description": "Implements JSON5 data format which extends JSON with comments, unquoted keys, trailing commas etc.",
+          "url": "https://pypi.org/project/json5/"
+        },
+        {
+          "name": "h5py",
+          "description": "Pythonic interface to the HDF5 binary data format.",
+          "url": "https://pypi.org/project/h5py/"
+        },
+        {
+          "name": "h5netcdf",
+          "description": "Read and write netCDF files via h5py.",
+          "url": "https://pypi.org/project/h5netcdf/"
+        },
+        {
+          "name": "fpdf",
+          "description": "PDF document generation with Python.",
+          "url": "https://pypi.org/project/fpdf/"
+        },
+        {
+          "name": "fonttools",
+          "description": "Library to manipulate font files.",
+          "url": "https://pypi.org/project/fonttools/"
+        },
+        {
+          "name": "fastjsonschema",
+          "description": "Fastest JSON schema validator for Python.",
+          "url": "https://pypi.org/project/fastjsonschema/"
+        },
+        {
+          "name": "extract-msg",
+          "description": "Extracts emails and attachments from Microsoft Outlook MSG files.",
+          "url": "https://pypi.org/project/extract-msg/"
+        },
+        {
+          "name": "et-xmlfile",
+          "description": "Python package for dealing with Excel XML files.",
+          "url": "https://pypi.org/project/et-xmlfile/"
+        },
+        {
+          "name": "EbookLib",
+          "description": "About EbookLib: Outlines its usage, reading, writing capabilities, license, and authors.",
+          "url": "https://pypi.org/project/EbookLib/"
+        },
+        {
+          "name": "ebcdic",
+          "description": "ebcdic is a Python package adding additional EBCDIC codecs for data exchange with legacy systems.",
+          "url": "https://pypi.org/project/ebcdic/"
+        },
+        {
+          "name": "defusedxml",
+          "description": "defusedxml: Aims to defuse XML bombs and other exploits, detailing various attack vectors and XML libraries.",
+          "url": "https://pypi.org/project/defusedxml/"
+        },
+        {
+          "name": "countryinfo",
+          "description": "Get country info like area, population, currencies etc.",
+          "url": "https://pypi.org/project/countryinfo/"
+        },
+        {
+          "name": "compressed-rtf",
+          "description": "Compressed Rich Text Format (RTF) compression worker in Python.",
+          "url": "https://pypi.org/project/compressed-rtf/"
+        },
+        {
+          "name": "cligj",
+          "description": "Click extension for handling GeoJSON data on the command line",
+          "url": "https://pypi.org/project/cligj/"
+        },
+        {
+          "name": "camelot-py",
+          "description": "PDF table extraction library that makes tabular data extraction easy.",
+          "url": "https://pypi.org/project/camelot-py/"
+        },
+        {
+          "name": "Babel",
+          "description": "Internationalization utilities.",
+          "url": "https://pypi.org/project/Babel/"
+        },
+        {
+          "name": "asn1crypto",
+          "description": "ASN.1 parser and serializer with definitions for private keys, public keys, certificates, CRL, OCSP, CMS, PKCS#3, PKCS#7, PKCS#8, PKCS#12, PKCS#5, X.509 and TSP.",
+          "url": "https://pypi.org/project/asn1crypto/"
+        }
+      ]
+    },
+    {
+      "name": "Machine Learning and AI",
+      "children": [
+        {
+          "name": "xgboost",
+          "description": "Gradient boosting library.",
+          "url": "https://pypi.org/project/xgboost/"
+        },
+        {
+          "name": "torch",
+          "description": "GPU accelerated tensor library with autograd support.",
+          "url": "https://pypi.org/project/torch/"
+        },
+        {
+          "name": "thinc",
+          "description": "Functional deep learning library.",
+          "url": "https://pypi.org/project/thinc/"
+        },
+        {
+          "name": "shap",
+          "description": "A unified approach to explain the output of any machine learning model.",
+          "url": "https://pypi.org/project/shap/"
+        },
+        {
+          "name": "mtcnn",
+          "description": "Face detection using multi-task cascaded convolutional neural networks",
+          "url": "https://pypi.org/project/mtcnn/"
+        },
+        {
+          "name": "keras",
+          "description": "Deep learning API for TensorFlow and other backends.",
+          "url": "https://pypi.org/project/keras/"
+        },
+        {
+          "name": "jax",
+          "description": "Autograd and XLA compiler for NumPy written in Python.",
+          "url": "https://pypi.org/project/jax/"
+        },
+        {
+          "name": "gradio",
+          "description": "Library for creating ML web interfaces and demos.",
+          "url": "https://pypi.org/project/gradio/"
+        }
+      ]
+    },
+    {
+      "name": "Data Analysis and Science",
+      "children": [
+        {
+          "name": "xarray",
+          "description": "einstats",
+          "url": "https://pypi.org/project/xarray/"
+        },
+        {
+          "name": "xarray-einstats",
+          "description": "Statistical operations on xarray labeled arrays",
+          "url": "https://pypi.org/project/xarray-einstats/"
+        },
+        {
+          "name": "tables",
+          "description": "Hierarchical datasets in Python.",
+          "url": "https://pypi.org/project/tables/"
+        },
+        {
+          "name": "sympy",
+          "description": "Symbolic mathematics library for Python.",
+          "url": "https://pypi.org/project/sympy/"
+        },
+        {
+          "name": "statsmodels",
+          "description": "Statistical modeling and econometrics in Python.",
+          "url": "https://pypi.org/project/statsmodels/"
+        },
+        {
+          "name": "slicer",
+          "description": "Slicing library that wraps tensor-like objects and provides uniform slicing via getitem",
+          "url": "https://pypi.org/project/slicer/"
+        },
+        {
+          "name": "seaborn",
+          "description": "Statistical data visualization using Matplotlib.",
+          "url": "https://pypi.org/project/seaborn/"
+        },
+        {
+          "name": "scipy",
+          "description": "Scientific computing library for Python.",
+          "url": "https://pypi.org/project/scipy/"
+        },
+        {
+          "name": "scikit-learn",
+          "description": "Machine learning library",
+          "url": "https://pypi.org/project/scikit-learn/"
+        },
+        {
+          "name": "pymc3",
+          "description": "Bayesian statistical modeling focused on Markov chain Monte Carlo and variational inference algorithms.",
+          "url": "https://pypi.org/project/pymc3/"
+        },
+        {
+          "name": "plotly",
+          "description": "Interactive, browser-based charting library for Python.",
+          "url": "https://pypi.org/project/plotly/"
+        },
+        {
+          "name": "pandas",
+          "description": "Data analysis and manipulation library for Python.",
+          "url": "https://pypi.org/project/pandas/"
+        },
+        {
+          "name": "opt-einsum",
+          "description": "Optimizes contraction order for tensor operations like einsum to improve performance.",
+          "url": "https://pypi.org/project/opt-einsum/"
+        },
+        {
+          "name": "numpy",
+          "description": "Fundamental package for array computing in Python.",
+          "url": "https://pypi.org/project/numpy/"
+        },
+        {
+          "name": "numba",
+          "description": "JIT compiler for Python array expressions and functions using LLVM.",
+          "url": "https://pypi.org/project/numba/"
+        },
+        {
+          "name": "networkx",
+          "description": "Library for graph and network analysis.",
+          "url": "https://pypi.org/project/networkx/"
+        },
+        {
+          "name": "nashpy",
+          "description": "Game theory algorithms for 2 player games",
+          "url": "https://pypi.org/project/nashpy/"
+        },
+        {
+          "name": "mpmath",
+          "description": "Arbitrary precision floating point arithmetic",
+          "url": "https://pypi.org/project/mpmath/"
+        },
+        {
+          "name": "mne",
+          "description": "Python for exploring, visualizing and analyzing neurophysiological data.",
+          "url": "https://pypi.org/project/mne/"
+        },
+        {
+          "name": "mizani",
+          "description": "Scales library for graphics.",
+          "url": "https://pypi.org/project/mizani/"
+        },
+        {
+          "name": "matplotlib",
+          "description": "venn",
+          "url": "https://pypi.org/project/matplotlib/"
+        },
+        {
+          "name": "folium",
+          "description": "Python Data Visualization on Leaflet Maps.",
+          "url": "https://pypi.org/project/folium/"
+        },
+        {
+          "name": "bokeh",
+          "description": "Interactive web visualization library for Python.",
+          "url": "https://pypi.org/project/bokeh/"
+        },
+        {
+          "name": "arviz",
+          "description": "Exploratory analysis of Bayesian models",
+          "url": "https://pypi.org/project/arviz/"
+        },
+        {
+          "name": "analytics-python",
+          "description": "Python client for Segment analytics",
+          "url": "https://pypi.org/project/analytics-python/"
+        }
+      ]
+    },
+    {
+      "name": "Web Development",
+      "children": [
+        {
+          "name": "wsproto",
+          "description": "WebSocket implementation.",
+          "url": "https://pypi.org/project/wsproto/"
+        },
+        {
+          "name": "werkzeug",
+          "description": "WSGI utility library for web applications.",
+          "url": "https://pypi.org/project/werkzeug/"
+        },
+        {
+          "name": "websockets",
+          "description": "Library for WebSocket clients and servers.",
+          "url": "https://pypi.org/project/websockets/"
+        },
+        {
+          "name": "websocket-client",
+          "description": "client",
+          "url": "https://pypi.org/project/websocket-client/"
+        },
+        {
+          "name": "uvloop",
+          "description": "Drop-in asyncio event loop replacement.",
+          "url": "https://pypi.org/project/uvloop/"
+        },
+        {
+          "name": "uvicorn",
+          "description": "Lightning-fast ASGI server implementation.",
+          "url": "https://pypi.org/project/uvicorn/"
+        },
+        {
+          "name": "typer",
+          "description": "Build command-line interfaces using Python type hints.",
+          "url": "https://pypi.org/project/typer/"
+        },
+        {
+          "name": "tornado",
+          "description": "Web framework and asynchronous networking library.",
+          "url": "https://pypi.org/project/tornado/"
+        },
+        {
+          "name": "Theano-PyMC",
+          "description": "Deep learning library",
+          "url": "https://pypi.org/project/Theano-PyMC/"
+        },
+        {
+          "name": "terminado",
+          "description": "Terminals served by Tornado websockets.",
+          "url": "https://pypi.org/project/terminado/"
+        },
+        {
+          "name": "starlette",
+          "description": "ASGI framework/toolkit for building async web services",
+          "url": "https://pypi.org/project/starlette/"
+        },
+        {
+          "name": "requests",
+          "description": "Elegant HTTP library in Python.",
+          "url": "https://pypi.org/project/requests/"
+        },
+        {
+          "name": "pyzmq",
+          "description": "Python bindings for ZeroMQ messaging library.",
+          "url": "https://pypi.org/project/pyzmq/"
+        },
+        {
+          "name": "pyOpenSSL",
+          "description": "Wrapper around a subset of the OpenSSL library including SSL connections and error handling.",
+          "url": "https://pypi.org/project/pyOpenSSL/"
+        },
+        {
+          "name": "PyJWT",
+          "description": "Implementation of JSON Web Tokens for encoding and decoding compact claims between parties.",
+          "url": "https://pypi.org/project/PyJWT/"
+        },
+        {
+          "name": "MarkupSafe",
+          "description": "Implements a text object that escapes characters to make strings safe for using in HTML and XML.",
+          "url": "https://pypi.org/project/MarkupSafe/"
+        },
+        {
+          "name": "Jinja2",
+          "description": "Templating engine for Python, with template inheritance and automatic HTML escaping.",
+          "url": "https://pypi.org/project/Jinja2/"
+        },
+        {
+          "name": "itsdangerous",
+          "description": "Untrusted data serialization/deserialization library with signatures.",
+          "url": "https://pypi.org/project/itsdangerous/"
+        },
+        {
+          "name": "IMAPClient",
+          "description": "Easy-to-use, Pythonic IMAP client library.",
+          "url": "https://pypi.org/project/IMAPClient/"
+        },
+        {
+          "name": "hyperframe",
+          "description": "HTTP/2 framing layer for Python.",
+          "url": "https://pypi.org/project/hyperframe/"
+        },
+        {
+          "name": "hypercorn",
+          "description": "HTTP/1, HTTP/2, and Websocket ASGI server based on Hyper libraries and inspired by Gunicorn.",
+          "url": "https://pypi.org/project/hypercorn/"
+        },
+        {
+          "name": "httpx",
+          "description": "Fully featured HTTP client for Python 3.",
+          "url": "https://pypi.org/project/httpx/"
+        },
+        {
+          "name": "httptools",
+          "description": "Python bindings for nodejs HTTP parser with no dependencies.",
+          "url": "https://pypi.org/project/httptools/"
+        },
+        {
+          "name": "httpcore",
+          "description": "Minimal low-level HTTP client.",
+          "url": "https://pypi.org/project/httpcore/"
+        },
+        {
+          "name": "hpack",
+          "description": "HTTP/2 header encoding and decoding.",
+          "url": "https://pypi.org/project/hpack/"
+        },
+        {
+          "name": "h11",
+          "description": "Pure Python HTTP/1.1 protocol library.",
+          "url": "https://pypi.org/project/h11/"
+        },
+        {
+          "name": "h2",
+          "description": "Pure-Python HTTP/2 protocol stack implementation.",
+          "url": "https://pypi.org/project/h2/"
+        },
+        {
+          "name": "flask",
+          "description": "Micro web framework powered by Werkzeug and Jinja2.",
+          "url": "https://pypi.org/project/flask/"
+        },
+        {
+          "name": "Flask-Login",
+          "description": "User session management module for Flask handling login, logout and session persistence.",
+          "url": "https://pypi.org/project/Flask-Login/"
+        },
+        {
+          "name": "Flask-Cors",
+          "description": "Flask extension for handling Cross Origin Resource Sharing (CORS), enabling cross-origin AJAX.",
+          "url": "https://pypi.org/project/Flask-Cors/"
+        },
+        {
+          "name": "Flask-CacheBuster",
+          "description": "Flask extension to add cache-busting query string to static asset URLs.",
+          "url": "https://pypi.org/project/Flask-CacheBuster/"
+        },
+        {
+          "name": "fastapi",
+          "description": "High performance web framework for building APIs with Python 3.7+.",
+          "url": "https://pypi.org/project/fastapi/"
+        },
+        {
+          "name": "dnspython",
+          "description": "DNS toolkit for Python.",
+          "url": "https://pypi.org/project/dnspython/"
+        },
+        {
+          "name": "click",
+          "description": "Create beautiful command line interfaces in Python.",
+          "url": "https://pypi.org/project/click/"
+        },
+        {
+          "name": "branca",
+          "description": "Generate HTML+JS maps and visualization widgets",
+          "url": "https://pypi.org/project/branca/"
+        },
+        {
+          "name": "bleach",
+          "description": "HTML sanitizing and text linkification library.",
+          "url": "https://pypi.org/project/bleach/"
+        },
+        {
+          "name": "anyio",
+          "description": "High level compatibility layer for multiple asynchronous event loop implementations.",
+          "url": "https://pypi.org/project/anyio/"
+        },
+        {
+          "name": "aiohttp",
+          "description": "Async HTTP client/server framework for asyncio",
+          "url": "https://pypi.org/project/aiohttp/"
+        },
+        {
+          "name": "urllib3",
+          "description": "HTTP library with thread-safe connection pooling, file post support, sanity friendly, and more.",
+          "url": "https://pypi.org/project/urllib3/"
+        },
+        {
+          "name": "requests-unixsocket",
+          "description": "Allows using requests to talk HTTP via a UNIX domain socket.",
+          "url": "https://pypi.org/project/requests-unixsocket/"
+        }
+      ]
+    },
+    {
+      "name": "Development and Infrastructure",
+      "children": [
+        {
+          "name": "wrapt",
+          "description": "Decorator to wrap functions and methods.",
+          "url": "https://pypi.org/project/wrapt/"
+        },
+        {
+          "name": "wcwidth",
+          "description": "Measures number of wide characters in a terminal.",
+          "url": "https://pypi.org/project/wcwidth/"
+        },
+        {
+          "name": "watchfiles",
+          "description": "File watching and code reloading.",
+          "url": "https://pypi.org/project/watchfiles/"
+        },
+        {
+          "name": "wasabi",
+          "description": "Formatting and printing toolkit for console output.",
+          "url": "https://pypi.org/project/wasabi/"
+        },
+        {
+          "name": "typing-extensions",
+          "description": "Backports and prototypes for typing-related stdlib modules",
+          "url": "https://pypi.org/project/typing-extensions/"
+        },
+        {
+          "name": "traitlets",
+          "description": "Configuration system for Python applications.",
+          "url": "https://pypi.org/project/traitlets/"
+        },
+        {
+          "name": "tqdm",
+          "description": "Fast, extensible progress bar for loops and CLI.",
+          "url": "https://pypi.org/project/tqdm/"
+        },
+        {
+          "name": "toolz",
+          "description": "Functional standard library for iterators, functions, and dictionaries.",
+          "url": "https://pypi.org/project/toolz/"
+        },
+        {
+          "name": "threadpoolctl",
+          "description": "Limit number of threads used by libraries like NumPy.",
+          "url": "https://pypi.org/project/threadpoolctl/"
+        },
+        {
+          "name": "stack-data",
+          "description": "Extract data from stack frames/tracebacks for readable tracebacks",
+          "url": "https://pypi.org/project/stack-data/"
+        },
+        {
+          "name": "snowflake-connector-python",
+          "description": "Connector for Snowflake data warehouse",
+          "url": "https://pypi.org/project/snowflake-connector-python/"
+        },
+        {
+          "name": "sniffio",
+          "description": "Sniffs out which async library code is running under",
+          "url": "https://pypi.org/project/sniffio/"
+        },
+        {
+          "name": "smart-open",
+          "description": "Utilities for streaming large files in Python",
+          "url": "https://pypi.org/project/smart-open/"
+        },
+        {
+          "name": "Send2Trash",
+          "description": "Safer file deletion by sending to the OS trash/recycle bin.",
+          "url": "https://pypi.org/project/Send2Trash/"
+        },
+        {
+          "name": "semver",
+          "description": "Simplifies comparing versions using semantic versioning",
+          "url": "https://pypi.org/project/semver/"
+        },
+        {
+          "name": "PyWavelets",
+          "description": "Wavelet transforms library for Python.",
+          "url": "https://pypi.org/project/PyWavelets/"
+        },
+        {
+          "name": "python-pptx",
+          "description": "Create/read/write PowerPoint files",
+          "url": "https://pypi.org/project/python-pptx/"
+        },
+        {
+          "name": "python-multipart",
+          "description": "Streaming multipart parser for Python",
+          "url": "https://pypi.org/project/python-multipart/"
+        },
+        {
+          "name": "pyluach",
+          "description": "Package for working with Hebrew calendar dates and holidays.",
+          "url": "https://pypi.org/project/pyluach/"
+        },
+        {
+          "name": "pygraphviz",
+          "description": "Python interface to the Graphviz graph visualization package.",
+          "url": "https://pypi.org/project/pygraphviz/"
+        },
+        {
+          "name": "Pygments",
+          "description": "Generic syntax highlighter with over 500 language lexers and multiple output formats.",
+          "url": "https://pypi.org/project/Pygments/"
+        },
+        {
+          "name": "pydantic",
+          "description": "Data validation and settings management using Python type hints.",
+          "url": "https://pypi.org/project/pydantic/"
+        },
+        {
+          "name": "ptyprocess",
+          "description": "Launch a subprocess in a pseudo terminal (pty) and interact with it.",
+          "url": "https://pypi.org/project/ptyprocess/"
+        },
+        {
+          "name": "pronouncing",
+          "description": "Simple interface for the CMU Pronouncing Dictionary to get phonetic transcriptions of English words.",
+          "url": "https://pypi.org/project/pronouncing/"
+        },
+        {
+          "name": "prometheus-client",
+          "description": "Client for Prometheus monitoring system",
+          "url": "https://pypi.org/project/prometheus-client/"
+        },
+        {
+          "name": "proglog",
+          "description": "Progress logging system for Python to build complex libraries with custom logs and progress bars.",
+          "url": "https://pypi.org/project/proglog/"
+        },
+        {
+          "name": "pkgutil-resolve-name",
+          "description": "Resolve a fully qualified name to a module or package",
+          "url": "https://pypi.org/project/pkgutil-resolve-name/"
+        },
+        {
+          "name": "pexpect",
+          "description": "Pexpect allows easy control of interactive console applications.",
+          "url": "https://pypi.org/project/pexpect/"
+        },
+        {
+          "name": "pdfplumber",
+          "description": "Extract text and tables from PDFs and provide visual debugging tools.",
+          "url": "https://pypi.org/project/pdfplumber/"
+        },
+        {
+          "name": "paramiko",
+          "description": "SSH2 protocol library",
+          "url": "https://pypi.org/project/paramiko/"
+        },
+        {
+          "name": "packaging",
+          "description": "Core utilities for Python packaging.",
+          "url": "https://pypi.org/project/packaging/"
+        },
+        {
+          "name": "oscrypto",
+          "description": "Cryptography library that uses native OS crypto APIs instead of OpenSSL.",
+          "url": "https://pypi.org/project/oscrypto/"
+        },
+        {
+          "name": "notebook-shim",
+          "description": "Jupyter Server extension providing v6 API for nbclassic",
+          "url": "https://pypi.org/project/notebook-shim/"
+        },
+        {
+          "name": "nest-asyncio",
+          "description": "Patches asyncio to allow nested event loops.",
+          "url": "https://pypi.org/project/nest-asyncio/"
+        },
+        {
+          "name": "munch",
+          "description": "Dictionary that provides attribute style access.",
+          "url": "https://pypi.org/project/munch/"
+        },
+        {
+          "name": "multidict",
+          "description": "Dictionary with multiple values per key and ordered keys.",
+          "url": "https://pypi.org/project/multidict/"
+        },
+        {
+          "name": "monotonic",
+          "description": "Monotonically increasing time utilities for Python.",
+          "url": "https://pypi.org/project/monotonic/"
+        },
+        {
+          "name": "loguru",
+          "description": "Python logging made (stupidly) simple.",
+          "url": "https://pypi.org/project/loguru/"
+        },
+        {
+          "name": "llvmlite",
+          "description": "Lightweight LLVM python binding for writing JIT compilers.",
+          "url": "https://pypi.org/project/llvmlite/"
+        },
+        {
+          "name": "jsonschema",
+          "description": "Use `jsonschema` to validate JSON data in Python by ensuring it adheres to predefined JSON Schemas.",
+          "url": "https://pypi.org/project/jsonschema/"
+        },
+        {
+          "name": "jsonschema-specifications",
+          "description": "JSON support files like metaschemas and vocabularies from JSON Schema Specifications.",
+          "url": "https://pypi.org/project/jsonschema-specifications/"
+        },
+        {
+          "name": "jedi",
+          "description": "Autocompletion, static analysis and refactoring library for Python.",
+          "url": "https://pypi.org/project/jedi/"
+        },
+        {
+          "name": "ipython",
+          "description": "Enhanced interactive Python shell.",
+          "url": "https://pypi.org/project/ipython/"
+        },
+        {
+          "name": "ipython-genutils",
+          "description": "Vestigial utilities from IPython.",
+          "url": "https://pypi.org/project/ipython-genutils/"
+        },
+        {
+          "name": "iniconfig",
+          "description": "Brain-dead simple INI-file parsing.",
+          "url": "https://pypi.org/project/iniconfig/"
+        },
+        {
+          "name": "importlib-resources",
+          "description": "Backport of importlib.resources module from Python 3.7+ standard library.",
+          "url": "https://pypi.org/project/importlib-resources/"
+        },
+        {
+          "name": "importlib-metadata",
+          "description": "Library to access metadata for Python packages and replace pkg_resources.",
+          "url": "https://pypi.org/project/importlib-metadata/"
+        },
+        {
+          "name": "future",
+          "description": "Compatibility layer between Python 2 and Python 3.",
+          "url": "https://pypi.org/project/future/"
+        },
+        {
+          "name": "frozenlist",
+          "description": "Immutable list implementation.",
+          "url": "https://pypi.org/project/frozenlist/"
+        },
+        {
+          "name": "filelock",
+          "description": "Provides a platform independent file lock.",
+          "url": "https://pypi.org/project/filelock/"
+        },
+        {
+          "name": "Faker",
+          "description": "Generate fake data for testing and populating databases.",
+          "url": "https://pypi.org/project/Faker/"
+        },
+        {
+          "name": "executing",
+          "description": "Inspect Python code AST to get info about the current statement.",
+          "url": "https://pypi.org/project/executing/"
+        },
+        {
+          "name": "exceptiongroup",
+          "description": "Backport of Python 3.11 exception groups.",
+          "url": "https://pypi.org/project/exceptiongroup/"
+        },
+        {
+          "name": "entrypoints",
+          "description": "Discover and load entry points from installed packages.",
+          "url": "https://pypi.org/project/entrypoints/"
+        },
+        {
+          "name": "einops",
+          "description": "einops: Provides updates, tutorials, API details, and highlights the significance of einops notation.",
+          "url": "https://pypi.org/project/einops/"
+        },
+        {
+          "name": "dlib",
+          "description": "dlib is a C++ library with details on compiling, example programs, the Python API, and unit tests.",
+          "url": "https://pypi.org/project/dlib/"
+        },
+        {
+          "name": "dill",
+          "description": "Serialize all of Python.",
+          "url": "https://pypi.org/project/dill/"
+        },
+        {
+          "name": "deprecat",
+          "description": "deprecat decorator: Discusses installation, compatibility, and various uses of deprecated functions, methods, and classes.",
+          "url": "https://pypi.org/project/deprecat/"
+        },
+        {
+          "name": "decorator",
+          "description": "Simplifies the usage of decorators.",
+          "url": "https://pypi.org/project/decorator/"
+        },
+        {
+          "name": "databricks-sql-connector",
+          "description": "Python DB API 2.0 compliant connector for Databricks clusters and SQL warehouses.",
+          "url": "https://pypi.org/project/databricks-sql-connector/"
+        },
+        {
+          "name": "cymem",
+          "description": "Memory allocation helpers for Cython to tie memory to Python object lifetime",
+          "url": "https://pypi.org/project/cymem/"
+        },
+        {
+          "name": "cycler",
+          "description": "Composable style cycles.",
+          "url": "https://pypi.org/project/cycler/"
+        },
+        {
+          "name": "cloudpickle",
+          "description": "Extended pickling support for Python objects.",
+          "url": "https://pypi.org/project/cloudpickle/"
+        },
+        {
+          "name": "click-plugins",
+          "description": "Extension module for click to register external CLI commands via setuptools entry-points.",
+          "url": "https://pypi.org/project/click-plugins/"
+        },
+        {
+          "name": "catalogue",
+          "description": "Tiny Python library for adding lightweight registries of functions.",
+          "url": "https://pypi.org/project/catalogue/"
+        },
+        {
+          "name": "cachetools",
+          "description": "Module with memoizing collections and decorators like @lru_cache.",
+          "url": "https://pypi.org/project/cachetools/"
+        },
+        {
+          "name": "blinker",
+          "description": "Fast object-to-object and broadcast signaling",
+          "url": "https://pypi.org/project/blinker/"
+        },
+        {
+          "name": "backoff",
+          "description": "Function decoration for retrying.",
+          "url": "https://pypi.org/project/backoff/"
+        },
+        {
+          "name": "backcall",
+          "description": "Turn any Python function into a callable object that provides safety against interruption.",
+          "url": "https://pypi.org/project/backcall/"
+        },
+        {
+          "name": "attrs",
+          "description": "Attributes without boilerplate.",
+          "url": "https://pypi.org/project/attrs/"
+        },
+        {
+          "name": "async-timeout",
+          "description": "Timeout context manager for asyncio programs.",
+          "url": "https://pypi.org/project/async-timeout/"
+        },
+        {
+          "name": "asttokens",
+          "description": "Annotate AST trees with source text positions",
+          "url": "https://pypi.org/project/asttokens/"
+        },
+        {
+          "name": "argcomplete",
+          "description": "Bash tab completion for argparse.",
+          "url": "https://pypi.org/project/argcomplete/"
+        },
+        {
+          "name": "anytree",
+          "description": "Convert Python classes into tree nodes with children",
+          "url": "https://pypi.org/project/anytree/"
+        },
+        {
+          "name": "aiosignal",
+          "description": "Manage callback registration in asyncio",
+          "url": "https://pypi.org/project/aiosignal/"
+        },
+        {
+          "name": "absl-py",
+          "description": "Abseil Python Common Libraries.",
+          "url": "https://pypi.org/project/absl-py/"
+        },
+        {
+          "name": "wheel",
+          "description": "Reference implementation of the Python wheel packaging",
+          "url": "https://pypi.org/project/wheel/"
+        },
+        {
+          "name": "unattended-upgrades",
+          "description": "Automatic security upgrades for Debian/Ubuntu",
+          "url": "https://pypi.org/project/unattended-upgrades/"
+        },
+        {
+          "name": "six",
+          "description": "Python 2 and 3 compatibility library.",
+          "url": "https://pypi.org/project/six/"
+        },
+        {
+          "name": "setuptools",
+          "description": "Build and distribution tools for packaging Python projects.",
+          "url": "https://pypi.org/project/setuptools/"
+        },
+        {
+          "name": "python-apt",
+          "description": "Interface to work with Debian and Ubuntu package management.",
+          "url": "https://pypi.org/project/python-apt/"
+        },
+        {
+          "name": "PyGObject",
+          "description": "Python bindings for GObject based libraries such as GTK.",
+          "url": "https://pypi.org/project/PyGObject/"
+        },
+        {
+          "name": "pip",
+          "description": "Package installer for Python.",
+          "url": "https://pypi.org/project/pip/"
+        },
+        {
+          "name": "distro-info",
+          "description": "Provides information about Linux distributions.",
+          "url": "https://pypi.org/project/distro-info/"
+        },
+        {
+          "name": "dbus-python",
+          "description": "Python bindings for libdbus.",
+          "url": "https://pypi.org/project/dbus-python/"
+        }
+      ]
+    },
+    {
+      "name": "Multimedia and Graphics",
+      "children": [
+        {
+          "name": "wordcloud",
+          "description": "Word cloud generator.",
+          "url": "https://pypi.org/project/wordcloud/"
+        },
+        {
+          "name": "weasyprint",
+          "description": "HTML/CSS to PDF generator.",
+          "url": "https://pypi.org/project/weasyprint/"
+        },
+        {
+          "name": "Wand",
+          "description": "ImageMagick binding for Python.",
+          "url": "https://pypi.org/project/Wand/"
+        },
+        {
+          "name": "trimesh",
+          "description": "Load, process, and render triangular meshes",
+          "url": "https://pypi.org/project/trimesh/"
+        },
+        {
+          "name": "torchvision",
+          "description": "Computer vision datasets, models, and image transformations for PyTorch.",
+          "url": "https://pypi.org/project/torchvision/"
+        },
+        {
+          "name": "torchaudio",
+          "description": "Audio processing dataset and models for PyTorch.",
+          "url": "https://pypi.org/project/torchaudio/"
+        },
+        {
+          "name": "tifffile",
+          "description": "Read and write image data from TIFF files.",
+          "url": "https://pypi.org/project/tifffile/"
+        },
+        {
+          "name": "svgwrite",
+          "description": "Creates SVG drawings",
+          "url": "https://pypi.org/project/svgwrite/"
+        },
+        {
+          "name": "svglib",
+          "description": "Reads and converts SVG images",
+          "url": "https://pypi.org/project/svglib/"
+        },
+        {
+          "name": "SpeechRecognition",
+          "description": "Library for speech recognition with support for APIs like Google Speech Recognition",
+          "url": "https://pypi.org/project/SpeechRecognition/"
+        },
+        {
+          "name": "SoundFile",
+          "description": "Reads and writes sound files",
+          "url": "https://pypi.org/project/SoundFile/"
+        },
+        {
+          "name": "scikit-image",
+          "description": "Image processing in Python",
+          "url": "https://pypi.org/project/scikit-image/"
+        },
+        {
+          "name": "resampy",
+          "description": "Audio sample rate conversion.",
+          "url": "https://pypi.org/project/resampy/"
+        },
+        {
+          "name": "reportlab",
+          "description": "PDF document generation.",
+          "url": "https://pypi.org/project/reportlab/"
+        },
+        {
+          "name": "qrcode",
+          "description": "Generate QR codes in Python.",
+          "url": "https://pypi.org/project/qrcode/"
+        },
+        {
+          "name": "pyzbar",
+          "description": "Read one-dimensional barcodes and QR codes with zbar library.",
+          "url": "https://pypi.org/project/pyzbar/"
+        },
+        {
+          "name": "pytesseract",
+          "description": "Optical character recognition (OCR) tool for python using Tesseract-OCR.",
+          "url": "https://pypi.org/project/pytesseract/"
+        },
+        {
+          "name": "pyprover",
+          "description": "Resolution theorem prover for first-order predicate logic.",
+          "url": "https://pypi.org/project/pyprover/"
+        },
+        {
+          "name": "PyMuPDF",
+          "description": "High performance Pythonic wrapper around the MuPDF PDF toolkit for parsing, analyzing and converting PDFs.",
+          "url": "https://pypi.org/project/PyMuPDF/"
+        },
+        {
+          "name": "pydub",
+          "description": "Manipulate audio with a simple, easy to use interface.",
+          "url": "https://pypi.org/project/pydub/"
+        },
+        {
+          "name": "pycountry",
+          "description": "ISO country, language and currency database for Python.",
+          "url": "https://pypi.org/project/pycountry/"
+        },
+        {
+          "name": "pure-eval",
+          "description": "Safely evaluate AST nodes in Python without side effects",
+          "url": "https://pypi.org/project/pure-eval/"
+        },
+        {
+          "name": "pluggy",
+          "description": "Plugin and hook calling mechanisms for Python.",
+          "url": "https://pypi.org/project/pluggy/"
+        },
+        {
+          "name": "platformdirs",
+          "description": "Provides platform-appropriate paths for application data, config, cache and log files.",
+          "url": "https://pypi.org/project/platformdirs/"
+        },
+        {
+          "name": "Pillow",
+          "description": "Fork of Python Imaging Library to add image processing capabilities to Python.",
+          "url": "https://pypi.org/project/Pillow/"
+        },
+        {
+          "name": "pdfkit",
+          "description": "HTML to PDF converter that uses wkhtmltopdf.",
+          "url": "https://pypi.org/project/pdfkit/"
+        },
+        {
+          "name": "parso",
+          "description": "Python parser.",
+          "url": "https://pypi.org/project/parso/"
+        },
+        {
+          "name": "opencv-python",
+          "description": "Wrapper package for OpenCV computer vision library",
+          "url": "https://pypi.org/project/opencv-python/"
+        },
+        {
+          "name": "murmurhash",
+          "description": "Bindings for MurmurHash2 hash algorithm.",
+          "url": "https://pypi.org/project/murmurhash/"
+        },
+        {
+          "name": "moviepy",
+          "description": "Video editing with Python",
+          "url": "https://pypi.org/project/moviepy/"
+        },
+        {
+          "name": "matplotlib-venn",
+          "description": "Plot Venn diagrams with Matplotlib",
+          "url": "https://pypi.org/project/matplotlib-venn/"
+        },
+        {
+          "name": "librosa",
+          "description": "Audio and music analysis library.",
+          "url": "https://pypi.org/project/librosa/"
+        },
+        {
+          "name": "kerykeion",
+          "description": "Python library for astrology and generating astrology charts.",
+          "url": "https://pypi.org/project/kerykeion/"
+        },
+        {
+          "name": "imgkit",
+          "description": "HTML to image conversion using wkhtmltoimage.",
+          "url": "https://pypi.org/project/imgkit/"
+        },
+        {
+          "name": "imageio",
+          "description": "Imageio is a Python library for reading and writing various image formats, including animated images, videos, and scientific data.",
+          "url": "https://pypi.org/project/imageio/"
+        },
+        {
+          "name": "imageio-ffmpeg",
+          "description": "FFmpeg wrapper for Python to read and write video frames using generators.",
+          "url": "https://pypi.org/project/imageio-ffmpeg/"
+        },
+        {
+          "name": "gTTS",
+          "description": "Python library and CLI tool to interface with Google Translate's text-to-speech API.",
+          "url": "https://pypi.org/project/gTTS/"
+        },
+        {
+          "name": "graphviz",
+          "description": "Python interface to Graphviz graph visualization library.",
+          "url": "https://pypi.org/project/graphviz/"
+        },
+        {
+          "name": "ffmpy",
+          "description": "FFmpeg command line wrapper.",
+          "url": "https://pypi.org/project/ffmpy/"
+        },
+        {
+          "name": "ffmpeg-python",
+          "description": "FFmpeg wrapper for Python providing interface to FFmpeg with complex filter graphs.",
+          "url": "https://pypi.org/project/ffmpeg-python/"
+        },
+        {
+          "name": "CairoSVG",
+          "description": "SVG converter based on Cairo that can export SVG files to PDF, PS, PNG etc.",
+          "url": "https://pypi.org/project/CairoSVG/"
+        },
+        {
+          "name": "cairocffi",
+          "description": "CFFI-based drop-in replacement for Pycairo with support for multiple cairo backends.",
+          "url": "https://pypi.org/project/cairocffi/"
+        },
+        {
+          "name": "audioread",
+          "description": "Cross-library audio decoding for Python.",
+          "url": "https://pypi.org/project/audioread/"
+        },
+        {
+          "name": "PyAudio",
+          "description": "Bindings for PortAudio v19, allows playback and recording of audio on a variety of platforms.",
+          "url": "https://pypi.org/project/PyAudio/"
+        }
+      ]
+    },
+    {
+      "name": "Date, Time, and System Management",
+      "children": [
+        {
+          "name": "tzlocal",
+          "description": "Returns tzinfo object with local timezone information.",
+          "url": "https://pypi.org/project/tzlocal/"
+        },
+        {
+          "name": "tenacity",
+          "description": "Implements retry behavior with configurable stop/wait/retry",
+          "url": "https://pypi.org/project/tenacity/"
+        },
+        {
+          "name": "srsly",
+          "description": "Serialization utilities for JSON/JSONL/MessagePack/Pickle/YAML",
+          "url": "https://pypi.org/project/srsly/"
+        },
+        {
+          "name": "pytz",
+          "description": "World timezone definitions and tools.",
+          "url": "https://pypi.org/project/pytz/"
+        },
+        {
+          "name": "python-dateutil",
+          "description": "Extensions to Python's datetime module",
+          "url": "https://pypi.org/project/python-dateutil/"
+        },
+        {
+          "name": "pyswisseph",
+          "description": "Python bindings for Swiss Ephemeris astrological calculations library.",
+          "url": "https://pypi.org/project/pyswisseph/"
+        },
+        {
+          "name": "korean-lunar-calendar",
+          "description": "A library to convert Korean lunar calendar dates to Gregorian calendar dates.",
+          "url": "https://pypi.org/project/korean-lunar-calendar/"
+        },
+        {
+          "name": "isodate",
+          "description": "ISO 8601 date/time parser and formatter.",
+          "url": "https://pypi.org/project/isodate/"
+        },
+        {
+          "name": "exchange-calendars",
+          "description": "Python library defining calendars for security exchanges with schedule methods.",
+          "url": "https://pypi.org/project/exchange-calendars/"
+        },
+        {
+          "name": "backports.zoneinfo",
+          "description": "Backport of Python 3.9's zoneinfo module for managing timezones.",
+          "url": "https://pypi.org/project/backports.zoneinfo/"
+        }
+      ]
+    },
+    {
+      "name": "Testing and Debugging",
+      "children": [
+        {
+          "name": "thrift",
+          "description": "Python bindings for the Apache Thrift RPC system.",
+          "url": "https://pypi.org/project/thrift/"
+        },
+        {
+          "name": "pytest",
+          "description": "Testing framework for Python.",
+          "url": "https://pypi.org/project/pytest/"
+        },
+        {
+          "name": "psutil",
+          "description": "Cross-platform lib for process and system monitoring in Python.",
+          "url": "https://pypi.org/project/psutil/"
+        },
+        {
+          "name": "joblib",
+          "description": "Provides utilities for lightweight pipelining and caching of Python functions.",
+          "url": "https://pypi.org/project/joblib/"
+        },
+        {
+          "name": "debugpy",
+          "description": "debugpy is a debugger for Python, covering its usage, debugging scripts and modules, attaching processes, enabling debugging, and more.",
+          "url": "https://pypi.org/project/debugpy/"
+        },
+        {
+          "name": "Cython",
+          "description": "C extensions for Python.",
+          "url": "https://pypi.org/project/Cython/"
+        },
+        {
+          "name": "cffi",
+          "description": "C Foreign Function Interface for Python.",
+          "url": "https://pypi.org/project/cffi/"
+        }
+      ]
+    },
+    {
+      "name": "Mathematics and Computation",
+      "children": [
+        {
+          "name": "sortedcontainers",
+          "description": "Fast, pure-Python implementation of sorted collections.",
+          "url": "https://pypi.org/project/sortedcontainers/"
+        },
+        {
+          "name": "snuggs",
+          "description": "S-expressions for Numpy",
+          "url": "https://pypi.org/project/snuggs/"
+        },
+        {
+          "name": "numpy-financial",
+          "description": "Financial functions for NumPy",
+          "url": "https://pypi.org/project/numpy-financial/"
+        },
+        {
+          "name": "numexpr",
+          "description": "Fast numerical expression evaluator for NumPy.",
+          "url": "https://pypi.org/project/numexpr/"
+        },
+        {
+          "name": "kiwisolver",
+          "description": "Implementation of Cassowary constraint solver algorithm.",
+          "url": "https://pypi.org/project/kiwisolver/"
+        },
+        {
+          "name": "blis",
+          "description": "Fast BLAS-like linear algebra operations for Python and Cython",
+          "url": "https://pypi.org/project/blis/"
+        },
+        {
+          "name": "affine",
+          "description": "Matrices for 2D affine transformations",
+          "url": "https://pypi.org/project/affine/"
+        }
+      ]
+    },
+    {
+      "name": "Geospatial and Mapping",
+      "children": [
+        {
+          "name": "Shapely",
+          "description": "Manipulates and analyzes geometric objects in the Cartesian plane",
+          "url": "https://pypi.org/project/Shapely/"
+        },
+        {
+          "name": "rasterio",
+          "description": "Raster input/output library built on GDAL.",
+          "url": "https://pypi.org/project/rasterio/"
+        },
+        {
+          "name": "pyproj",
+          "description": "Python interface to PROJ cartographic projections library.",
+          "url": "https://pypi.org/project/pyproj/"
+        },
+        {
+          "name": "geopy",
+          "description": "Python Geocoding Toolbox.",
+          "url": "https://pypi.org/project/geopy/"
+        },
+        {
+          "name": "geopandas",
+          "description": "Geographic pandas extensions.",
+          "url": "https://pypi.org/project/geopandas/"
+        },
+        {
+          "name": "geographiclib",
+          "description": "Library for geographic manipulations.",
+          "url": "https://pypi.org/project/geographiclib/"
+        },
+        {
+          "name": "Fiona",
+          "description": "Reads, writes, and streams geospatial data across GIS formats like GeoPackage and Shapefile, including files, cloud storage, and zipped archives.",
+          "url": "https://pypi.org/project/Fiona/"
+        },
+        {
+          "name": "basemap",
+          "description": "Plotting geographic data on map projections using Matplotlib.",
+          "url": "https://pypi.org/project/basemap/"
+        },
+        {
+          "name": "basemap-data",
+          "description": "Provides coastline, political boundary, and other geospatial data for the Basemap library.",
+          "url": "https://pypi.org/project/basemap-data/"
+        }
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "children": []
+    },
+    {
+      "name": "Security and Cryptography",
+      "children": [
+        {
+          "name": "PyNaCl",
+          "description": "Python binding to libsodium cryptography library supporting public-key encryption, hashing and more.",
+          "url": "https://pypi.org/project/PyNaCl/"
+        },
+        {
+          "name": "pycryptodome",
+          "description": "Cryptographic library for Python",
+          "url": "https://pypi.org/project/pycryptodome/"
+        },
+        {
+          "name": "cryptography",
+          "description": "Cryptography and SSL/TLS library.",
+          "url": "https://pypi.org/project/cryptography/"
+        },
+        {
+          "name": "bcrypt",
+          "description": "Modern password hashing library implementing Bcrypt.",
+          "url": "https://pypi.org/project/bcrypt/"
+        },
+        {
+          "name": "argon2-cffi",
+          "description": "CFFI bindings for the Argon2 password hashing library.",
+          "url": "https://pypi.org/project/argon2-cffi/"
+        },
+        {
+          "name": "argon2-cffi-bindings",
+          "description": "Low-level CFFI bindings for Argon2 password hashing library.",
+          "url": "https://pypi.org/project/argon2-cffi-bindings/"
+        },
+        {
+          "name": "certifi",
+          "description": "Provides Mozilla's CA bundle.",
+          "url": "https://pypi.org/project/certifi/"
+        }
+      ]
+    },
+    {
+      "name": "Jupyter Notebooks Related",
+      "children": [
+        {
+          "name": "nbconvert",
+          "description": "Converter for Jupyter notebooks",
+          "url": "https://pypi.org/project/nbconvert/"
+        },
+        {
+          "name": "nbclient",
+          "description": "Executes Jupyter notebooks programmatically",
+          "url": "https://pypi.org/project/nbclient/"
+        },
+        {
+          "name": "nbclassic",
+          "description": "Jupyter classic notebook as Jupyter Server extension",
+          "url": "https://pypi.org/project/nbclassic/"
+        },
+        {
+          "name": "matplotlib-inline",
+          "description": "A backend for displaying matplotlib figures inline in Jupyter notebooks and IPython.",
+          "url": "https://pypi.org/project/matplotlib-inline/"
+        },
+        {
+          "name": "jupyterlab",
+          "description": "pygments",
+          "url": "https://pypi.org/project/jupyterlab/"
+        },
+        {
+          "name": "jupyterlab-server",
+          "description": "Provides backend REST API handlers and utilities for JupyterLab applications.",
+          "url": "https://pypi.org/project/jupyterlab-server/"
+        },
+        {
+          "name": "jupyterlab-pygments",
+          "description": "Syntax coloring theme for Pygments HTML output, using JupyterLab CSS variables.",
+          "url": "https://pypi.org/project/jupyterlab-pygments/"
+        },
+        {
+          "name": "jupyter-server",
+          "description": "Backend package providing services like API handlers and web server for Jupyter web applications.",
+          "url": "https://pypi.org/project/jupyter-server/"
+        },
+        {
+          "name": "jupyter-core",
+          "description": "Common functionality of Jupyter projects including configuration, APIs, and traits.",
+          "url": "https://pypi.org/project/jupyter-core/"
+        },
+        {
+          "name": "jupyter-client",
+          "description": "Reference implementation of the Jupyter protocol and client APIs for kernels.",
+          "url": "https://pypi.org/project/jupyter-client/"
+        },
+        {
+          "name": "ipykernel",
+          "description": "IPython kernel for Jupyter notebooks and other interactive environments.",
+          "url": "https://pypi.org/project/ipykernel/"
+        },
+        {
+          "name": "fastprogress",
+          "description": "Progress bar for Jupyter Notebook and console.",
+          "url": "https://pypi.org/project/fastprogress/"
+        },
+        {
+          "name": "comm",
+          "description": "Register comm implementations for Jupyter kernel communication",
+          "url": "https://pypi.org/project/comm/"
+        }
+      ]
+    }
+  ]
+}

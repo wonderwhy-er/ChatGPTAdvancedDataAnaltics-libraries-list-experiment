@@ -1,0 +1,339 @@
+zopfli - Zopfli compression algorithm for higher deflate or zlib compression.
+zipp - Backport of pathlib-compatible object wrapper for zip files.
+yarl - URL parsing and manipulation.
+xml-python - python - XML processing.
+XlsxWriter - Create Excel XLSX files.
+xlrd - Reading data and formatting information from older Excel files.
+xgboost - Gradient boosting library.
+xarray - einstats - Stats and linear algebra for xarray.
+xarray-einstats - Statistical operations on xarray labeled arrays
+wsproto - WebSocket implementation.
+wrapt - Decorator to wrap functions and methods.
+wordcloud - Word cloud generator.
+werkzeug - WSGI utility library for web applications.
+websocket-client - client - WebSocket client library.
+webencodings - Implementation of WHATWG Encoding standard.
+weasyprint - HTML/CSS to PDF generator.
+wcwidth - Measures number of wide characters in a terminal.
+watchfiles - File watching and code reloading.
+wasabi - Formatting and printing toolkit for console output.
+Wand - ImageMagick binding for Python.
+uvloop - Drop-in asyncio event loop replacement.
+uvicorn - Lightning-fast ASGI server implementation.
+ujson - Ultra fast JSON encoder and decoder for Python.
+tzlocal - Returns tzinfo object with local timezone information.
+typing-extensions - Backports and prototypes for typing-related stdlib modules
+typer - Build command-line interfaces using Python type hints.
+trimesh - Load, process, and render triangular meshes
+traitlets - Configuration system for Python applications.
+tqdm - Fast, extensible progress bar for loops and CLI.
+tornado - Web framework and asynchronous networking library.
+torchvision - Computer vision datasets, models, and image transformations for PyTorch.
+torchtext - Text processing datasets, data loaders, and models for PyTorch.
+torchaudio - Audio processing dataset and models for PyTorch.
+torch - GPU accelerated tensor library with autograd support.
+toolz - Functional standard library for iterators, functions, and dictionaries.
+tomli - TOML parser for Python.
+toml - TOML parser and encoder for Python.
+tinycss2 - Low-level CSS parser and generator.
+tifffile - Read and write image data from TIFF files.
+thrift - Python bindings for the Apache Thrift RPC system.
+threadpoolctl - Limit number of threads used by libraries like NumPy.
+thinc - Functional deep learning library.
+Theano-PyMC - Deep learning library
+textract - Extract text from documents
+textblob - Provides natural language processing tools
+text-unidecode - Unicode text transliteration library
+terminado - Terminals served by Tornado websockets.
+tenacity - Implements retry behavior with configurable stop/wait/retry
+tabulate - Pretty-print tabular data in Python.
+tabula - Creates ASCII tables
+tables - Hierarchical datasets in Python.
+sympy - Symbolic mathematics library for Python.
+svgwrite - Creates SVG drawings
+svglib - Reads and converts SVG images
+statsmodels - Statistical modeling and econometrics in Python.
+starlette - ASGI framework/toolkit for building async web services
+stack-data - Extract data from stack frames/tracebacks for readable tracebacks
+srsly - Serialization utilities for JSON/JSONL/MessagePack/Pickle/YAML
+SpeechRecognition - Library for speech recognition with support for APIs like Google Speech Recognition
+spacy - Industrial-strength Natural Language Processing in Python.
+spacy-legacy - Natural language processing library
+soupsieve - CSS selector library for BeautifulSoup
+SoundFile - Reads and writes sound files
+sortedcontainers - Fast, pure-Python implementation of sorted collections.
+snuggs - S-expressions for Numpy
+snowflake-connector-python - Connector for Snowflake data warehouse
+sniffio - Sniffs out which async library code is running under
+smart-open - Utilities for streaming large files in Python
+slicer - Slicing library that wraps tensor-like objects and provides uniform slicing via getitem
+Shapely - Manipulates and analyzes geometric objects in the Cartesian plane
+shap - A unified approach to explain the output of any machine learning model.
+sentencepiece - Unsupervised text tokenizer/detokenizer for neural network text generation
+Send2Trash - Safer file deletion by sending to the OS trash/recycle bin.
+semver - Simplifies comparing versions using semantic versioning
+seaborn - Statistical data visualization using Matplotlib.
+scipy - Scientific computing library for Python.
+rpds-py - Python bindings for Rust persistent data structures
+resampy - Audio sample rate conversion.
+reportlab - PDF document generation.
+regex - Alternative regular expression module to replace re.
+referencing - JSON reference resolution.
+rdflib - RDF library for semantic web and linked data.
+rasterio - Raster input/output library built on GDAL.
+rarfile - RAR archive extraction.
+qrcode - Generate QR codes in Python.
+pyzmq - Python bindings for ZeroMQ messaging library.
+pyzbar - Read one-dimensional barcodes and QR codes with zbar library.
+pyxlsb - Parse Excel 2007-2010 Binary Workbook (xlsb) files.
+PyWavelets - Wavelet transforms library for Python.
+pytz - World timezone definitions and tools.
+pyttsx3 - Text-to-speech conversion library.
+python-pptx - Create/read/write PowerPoint files
+python-multipart - Streaming multipart parser for Python
+python-dotenv - Read key-value pairs from .env file
+python-docx - Create/read/write Word files
+python-dateutil - Extensions to Python's datetime module
+pyth3 - Python library for text markup and conversion between formats.
+pytesseract - Optical character recognition (OCR) tool for python using Tesseract-OCR.
+pyswisseph - Python bindings for Swiss Ephemeris astrological calculations library.
+pyshp - Reads and writes Esri Shapefiles in pure Python.
+pyprover - Resolution theorem prover for first-order predicate logic.
+pyproj - Python interface to PROJ cartographic projections library.
+pyphen - Hyphenate text using Hunspell dictionaries.
+PyPDF2 - Pure Python PDF library capable of splitting, merging and transforming PDFs.
+pyparsing - Library for creating and executing simple grammars as an alternative to regex and lex/yacc.
+pypandoc - Thin wrapper for pandoc document conversion tool with support for piping input strings.
+pyOpenSSL - Wrapper around a subset of the OpenSSL library including SSL connections and error handling.
+PyMuPDF - High performance Pythonic wrapper around the MuPDF PDF toolkit for parsing, analyzing and converting PDFs.
+pymc3 - Bayesian statistical modeling focused on Markov chain Monte Carlo and variational inference algorithms.
+pyluach - Package for working with Hebrew calendar dates and holidays.
+pylog - Implementation of logic programming based on miniKanren.
+PyJWT - Implementation of JSON Web Tokens for encoding and decoding compact claims between parties.
+pygraphviz - Python interface to the Graphviz graph visualization package.
+Pygments - Generic syntax highlighter with over 500 language lexers and multiple output formats.
+pydyf - Low-level PDF generator written in Python.
+pydub - Manipulate audio with a simple, easy to use interface.
+pydot - Python interface to Graphviz for graph manipulation and visualization.
+pydantic - Data validation and settings management using Python type hints.
+pycryptodomex - Cryptographic library implementing ciphers, hashes and public key algorithms.
+pycryptodome - Cryptographic library for Python
+pycparser - C parser module written in pure Python.
+pycountry - ISO country, language and currency database for Python.
+py - Python development support library with path, ini parsing and code analysis tools.
+pure-eval - Safely evaluate AST nodes in Python without side effects
+ptyprocess - Launch a subprocess in a pseudo terminal (pty) and interact with it.
+psutil - Cross-platform lib for process and system monitoring in Python.
+pronouncing - Simple interface for the CMU Pronouncing Dictionary to get phonetic transcriptions of English words.
+prompt-toolkit - Library for building interactive command line apps
+prometheus-client - Client for Prometheus monitoring system
+proglog - Progress logging system for Python to build complex libraries with custom logs and progress bars.
+priority - HTTP/2 priority logic implementation for request prioritization.
+preshed - Hash table implementation optimized for pre-hashed keys.
+pooch - Manage and version control data files for Python projects.
+pluggy - Plugin and hook calling mechanisms for Python.
+plotnine - Grammar of graphics style plotting library based on ggplot2 for Python.
+plotly - Interactive, browser-based charting library for Python.
+platformdirs - Provides platform-appropriate paths for application data, config, cache and log files.
+pkgutil-resolve-name - Resolve a fully qualified name to a module or package
+pickleshare - Small 'shelve' like datastore for Python with concurrent access support.
+pexpect - Pexpect allows easy control of interactive console applications.
+pdfrw - Read and write PDF files in pure Python with support for subsets, merging, rotating, etc.
+pdfplumber - Extract text and tables from PDFs and provide visual debugging tools.
+pdfminer.six - Extract text and layout information from PDF documents.
+pdfkit - HTML to PDF converter that uses wkhtmltopdf.
+pdf2image - Wrap pdftoppm and pdftocairo to convert PDF to PIL Image in Python.
+patsy - Describe statistical models in Python inspired by R formulas.
+pathy - Pathlib-like API for cloud storage buckets
+parso - Python parser.
+paramiko - SSH2 protocol library
+pandocfilters - Library for writing pandoc filters in Python
+pandas - Data analysis and manipulation library for Python.
+packaging - Core utilities for Python packaging.
+oscrypto - Cryptography library that uses native OS crypto APIs instead of OpenSSL.
+orjson - Fast and correct JSON serialization/deserialization library with native support for common types.
+opt-einsum - Optimizes contraction order for tensor operations like einsum to improve performance.
+openpyxl - Read/write Excel 2010 xlsx/xlsm files
+opencv-python - Wrapper package for OpenCV computer vision library
+olefile - Parse, read and write Microsoft OLE2 files
+odfpy - Read and write OpenDocument format files
+numpy - Fundamental package for array computing in Python.
+numpy-financial - Financial functions for NumPy
+numexpr - Fast numerical expression evaluator for NumPy.
+numba - JIT compiler for Python array expressions and functions using LLVM.
+notebook - shim - Jupyter Server extension providing v6 API for nbclassic
+notebook-shim - Jupyter Server extension providing v6 API for nbclassic
+nltk - Natural language toolkit for Python.
+networkx - Library for graph and network analysis.
+nest-asyncio - Patches asyncio to allow nested event loops.
+nbformat - Jupyter notebook format reader/writer
+nbconvert - Converter for Jupyter notebooks
+nbclient - Executes Jupyter notebooks programmatically
+nbclassic - Jupyter classic notebook as Jupyter Server extension
+nashpy - Game theory algorithms for 2 player games
+mutagen - Read and write audio file metadata
+murmurhash - Bindings for MurmurHash2 hash algorithm.
+munch - Dictionary that provides attribute style access.
+multidict - Dictionary with multiple values per key and ordered keys.
+mtcnn - Face detection using multi-task cascaded convolutional neural networks
+mpmath - Arbitrary precision floating point arithmetic
+moviepy - Video editing with Python
+monotonic - Monotonically increasing time utilities for Python.
+mne - Python for exploring, visualizing and analyzing neurophysiological data.
+mizani - Scales library for graphics.
+mistune - Markdown parser in pure Python with renderers for IPython/Jupyter Notebook.
+matplotlib - venn - Plots Venn diagrams with Matplotlib.
+matplotlib-venn - Plot Venn diagrams with Matplotlib
+matplotlib-inline - A backend for displaying matplotlib figures inline in Jupyter notebooks and IPython.
+MarkupSafe - Implements a text object that escapes characters to make strings safe for using in HTML and XML.
+markdownify - HTML to Markdown converter.
+markdown2 - Fast and complete Markdown parser for Python.
+lxml - Pythonic XML processing library using libxml2 and libxslt.
+loguru - Python logging made (stupidly) simple.
+llvmlite - Lightweight LLVM python binding for writing JIT compilers.
+korean-lunar-calendar - A library to convert Korean lunar calendar dates to Gregorian calendar dates.
+kiwisolver - Implementation of Cassowary constraint solver algorithm.
+kerykeion - Python library for astrology and generating astrology charts.
+keras - Deep learning API for TensorFlow and other backends.
+jupyterlab - pygments - JupyterLab syntax highlighting theme for Pygments.
+jupyterlab-server - Provides backend REST API handlers and utilities for JupyterLab applications.
+jupyterlab-pygments - Syntax coloring theme for Pygments HTML output, using JupyterLab CSS variables.
+jupyter-server - Backend package providing services like API handlers and web server for Jupyter web applications.
+jupyter-core - Common functionality of Jupyter projects including configuration, APIs, and traits.
+jupyter-client - Reference implementation of the Jupyter protocol and client APIs for kernels.
+jsonschema - specifications - JSON files for JSON Schema metaschemas and vocabularies.
+jsonschema-specifications - JSON support files like metaschemas and vocabularies from JSON Schema Specifications.
+jsonpickle - Serializes arbitrary Python objects to JSON and deserializes back to objects.
+json5 - Implements JSON5 data format which extends JSON with comments, unquoted keys, trailing commas etc.
+joblib - Provides utilities for lightweight pipelining and caching of Python functions.
+Jinja2 - Templating engine for Python, with template inheritance and automatic HTML escaping.
+jedi - Autocompletion, static analysis and refactoring library for Python.
+jax - Autograd and XLA compiler for NumPy written in Python.
+itsdangerous - Untrusted data serialization/deserialization library with signatures.
+isodate - ISO 8601 date/time parser and formatter.
+ipython - Enhanced interactive Python shell.
+ipython-genutils - Vestigial utilities from IPython.
+ipykernel - IPython kernel for Jupyter notebooks and other interactive environments.
+iniconfig - Brain-dead simple INI-file parsing.
+importlib-resources - Backport of importlib.resources module from Python 3.7+ standard library.
+importlib-metadata - Library to access metadata for Python packages and replace pkg_resources.
+imgkit - HTML to image conversion using wkhtmltoimage.
+IMAPClient - Easy-to-use, Pythonic IMAP client library.
+imageio - ffmpeg - FFmpeg wrapper for Python to read and write video frames using generators.
+imageio-ffmpeg - FFmpeg wrapper for Python to read and write video frames using generators.
+hyperframe - HTTP/2 framing layer for Python.
+hypercorn - HTTP/1, HTTP/2, and Websocket ASGI server based on Hyper libraries and inspired by Gunicorn.
+httpx - Fully featured HTTP client for Python 3.
+httptools - Python bindings for nodejs HTTP parser with no dependencies.
+httpcore - Minimal low-level HTTP client.
+html5lib - HTML parser based on the WHATWG HTML specification.
+hpack - HTTP/2 header encoding and decoding.
+h11 - Pure Python HTTP/1.1 protocol library.
+h5py - Pythonic interface to the HDF5 binary data format.
+h5netcdf - Read and write netCDF files via h5py.
+h2 - Pure-Python HTTP/2 protocol stack implementation.
+gTTS - Python library and CLI tool to interface with Google Translate's text-to-speech API.
+graphviz - Python interface to Graphviz graph visualization library.
+gradio - Library for creating ML web interfaces and demos.
+geopy - Python Geocoding Toolbox.
+geopandas - Geographic pandas extensions.
+geographiclib - Library for geographic manipulations.
+gensim - Topic Modelling in Python.
+fuzzywuzzy - Fuzzy string matching in Python.
+future - Compatibility layer between Python 2 and Python 3.
+frozenlist - Immutable list implementation.
+fpdf - PDF document generation with Python.
+fonttools - Library to manipulate font files.
+folium - Python Data Visualization on Leaflet Maps.
+flask - Micro web framework powered by Werkzeug and Jinja2.
+Flask-Login - User session management module for Flask handling login, logout and session persistence.
+Flask-Cors - Flask extension for handling Cross Origin Resource Sharing (CORS), enabling cross-origin AJAX.
+Flask-CacheBuster - Flask extension to add cache-busting query string to static asset URLs.
+Fiona - Python wrapper for vector data access functions from the OGR library.
+filelock - Provides a platform independent file lock.
+ffmpy - FFmpeg command line wrapper.
+ffmpeg-python - FFmpeg wrapper for Python providing interface to FFmpeg with complex filter graphs.
+fastprogress - Progress bar for Jupyter Notebook and console.
+fastjsonschema - Fastest JSON schema validator for Python.
+Faker - Generate fake data for testing and populating databases.
+extract-msg - Extracts emails and attachments from Microsoft Outlook MSG files.
+executing - Inspect Python code AST to get info about the current statement.
+exchange-calendars - Python library defining calendars for security exchanges with schedule methods.
+exceptiongroup - Backport of Python 3.11 exception groups.
+et-xmlfile - Python package for dealing with Excel XML files.
+entrypoints - Discover and load entry points from installed packages.
+email-validator - Library for validating email address syntax and deliverability.
+einops - einops: Provides updates, tutorials, API details, and highlights the significance of einops notation.
+EbookLib - About EbookLib: Outlines its usage, reading, writing capabilities, license, and authors.
+ebcdic - ebcdic is a Python package adding additional EBCDIC codecs for data exchange with legacy systems.
+docx2txt - python docx2txt: Describes how to install the library.
+dnspython - DNS toolkit for Python.
+dlib - dlib is a C++ library with details on compiling, example programs, the Python API, and unit tests.
+dill - Serialize all of Python.
+deprecat - deprecat decorator: Discusses installation, compatibility, and various uses of deprecated functions, methods, and classes.
+defusedxml - defusedxml: Aims to defuse XML bombs and other exploits, detailing various attack vectors and XML libraries.
+decorator - Simplifies the usage of decorators.
+debugpy - debugpy is a debugger for Python, covering its usage, debugging scripts and modules, attaching processes, enabling debugging, and more.
+databricks-sql-connector - Python DB API 2.0 compliant connector for Databricks clusters and SQL warehouses.
+Cython - C extensions for Python.
+cymem - Memory allocation helpers for Cython to tie memory to Python object lifetime
+cycler - Composable style cycles.
+cssselect2 - CSS selector library.
+countryinfo - Get country info like area, population, currencies etc.
+compressed-rtf - Compressed Rich Text Format (RTF) compression worker in Python.
+comm - Register comm implementations for Jupyter kernel communication
+cmudict - Access CMU Pronouncing Dictionary for pronunciation data
+cloudpickle - Extended pickling support for Python objects.
+cligj - Click extension for handling GeoJSON data on the command line
+click - Create beautiful command line interfaces in Python.
+click-plugins - Extension module for click to register external CLI commands via setuptools entry-points.
+charset-normalizer - Python library to detect encoding of text and normalize to Unicode.
+chardet - Universal character encoding detector.
+cffi - C Foreign Function Interface for Python.
+catalogue - Tiny Python library for adding lightweight registries of functions.
+camelot-py - PDF table extraction library that makes tabular data extraction easy.
+CairoSVG - SVG converter based on Cairo that can export SVG files to PDF, PS, PNG etc.
+cairocffi - CFFI-based drop-in replacement for Pycairo with support for multiple cairo backends.
+cachetools - Module with memoizing collections and decorators like @lru_cache.
+Brotli - Compress and decompress data with the Brotli algorithm
+branca - Generate HTML+JS maps and visualization widgets
+bokeh - Interactive web visualization library for Python.
+blis - Fast BLAS-like linear algebra operations for Python and Cython
+blinker - Fast object-to-object and broadcast signaling
+bleach - HTML sanitizing and text linkification library.
+beautifulsoup4 - HTML/XML parser for quick web scraping.
+bcrypt - Modern password hashing library implementing Bcrypt.
+basemap - Plotting geographic data on map projections using Matplotlib.
+basemap-data - Provides coastline, political boundary, and other geospatial data for the Basemap library.
+backports.zoneinfo - Backport of Python 3.9's zoneinfo module for managing timezones.
+backoff - Function decoration for retrying.
+backcall - Turn any Python function into a callable object that provides safety against interruption.
+Babel - Internationalization utilities.
+audioread - Cross-library audio decoding for Python.
+attrs - Attributes without boilerplate.
+async-timeout - Timeout context manager for asyncio programs.
+asttokens - Annotate AST trees with source text positions
+asn1crypto - ASN.1 parser and serializer with definitions for private keys, public keys, certificates, CRL, OCSP, CMS, PKCS#3, PKCS#7, PKCS#8, PKCS#12, PKCS#5, X.509 and TSP.
+arviz - Exploratory analysis of Bayesian models
+argon2-cffi - CFFI bindings for the Argon2 password hashing library.
+argon2-cffi-bindings - Low-level CFFI bindings for Argon2 password hashing library.
+argcomplete - Bash tab completion for argparse.
+anytree - Convert Python classes into tree nodes with children
+anyio - High level compatibility layer for multiple asynchronous event loop implementations.
+analytics-python - Python client for Segment analytics
+aiosignal - Manage callback registration in asyncio
+affine - Matrices for 2D affine transformations
+absl-py - Abseil Python Common Libraries.
+wheel - Reference implementation of the Python wheel packaging
+urllib3 - HTTP library with thread-safe connection pooling, file post support, sanity friendly, and more.
+unattended-upgrades - Automatic security upgrades for Debian/Ubuntu
+six - Python 2 and 3 compatibility library.
+setuptools - Build and distribution tools for packaging Python projects.
+requests-unixsocket - Allows using requests to talk HTTP via a UNIX domain socket.
+python-apt - Interface to work with Debian and Ubuntu package management.
+PyGObject - Python bindings for GObject based libraries such as GTK.
+pip - Package installer for Python.
+idna - Implements IDNA2008 internationalized domain names in applications.
+distro-info - Provides information about Linux distributions.
+dbus-python - Python bindings for libdbus.
+certifi - Provides Mozilla's CA bundle.
